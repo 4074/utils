@@ -1,6 +1,6 @@
 {
   "name": "@ntes-ux-dev/utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "scripts": {
     "start": "ts-node src/index.ts",
