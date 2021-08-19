@@ -1,0 +1,30 @@
+{
+  "name": "@ntes-ux-dev/utils",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "test": "jest",
+    "nodemon": "nodemon",
+    "build": "tsc",
+    "eslint": "eslint",
+    "prettier": "prettier"
+  },
+  "repository": "https://github.com/4074/utils.git",
+  "author": "4074 <win.ten@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^27.0.1",
+    "@typescript-eslint/eslint-plugin": "^4.29.2",
+    "@typescript-eslint/parser": "^4.29.2",
+    "eslint": "^7.32.0",
+    "eslint-config-alloy": "^4.2.0",
+    "jest": "^27.0.6",
+    "nodemon": "^2.0.12",
+    "prettier": "^2.3.2",
+    "ts-jest": "^27.0.5",
+    "ts-node": "^10.2.1",
+    "typescript": "^4.3.5"
+  },
+  "dependencies": {}
+}
